@@ -1,0 +1,1 @@
+# perl6-fails-to-parse-3mb-file
